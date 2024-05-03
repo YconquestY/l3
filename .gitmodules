@@ -1,0 +1,12 @@
+[submodule "l3_opt"]
+	path = l3_opt
+	url = git@github.com:YconquestY/opt.git
+[submodule "l3_cl32cps"]
+	path = l3_cl32cps
+	url = git@github.com:YconquestY/cl32cps.git
+[submodule "l3_val"]
+	path = l3_val
+	url = git@github.com:YconquestY/val.git
+[submodule "l3_gc"]
+	path = l3_gc
+	url = git@github.com:YconquestY/gc.git
